@@ -1,7 +1,6 @@
-## Hi there 👋
-
 <!--
 **joaombmcoelho/joaombmcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joaombmcoelho&rank_icon=github&hide_title=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=joaombmcoelho&rank_icon=github&hide_title=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=joaombmcoelho&layout=compact&hide_title=true&langs_count=10&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=joaombmcoelho&layout=compact&hide_title=true&langs_count=10&theme=algolia)
